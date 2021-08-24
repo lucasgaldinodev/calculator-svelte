@@ -15,47 +15,47 @@
     justify-content: flex-end;
     align-items: center;
     padding: 0px 5px;
-    font-size: 1.7rem;
+    font-size: 3.4rem;
     color: white;
     overflow: hidden;
     margin: 2px 1px;
   }
 
   .s-10 {
-    font-size: 1.5rem;
+    font-size: 3.3rem;
   }
   .s-11 {
-    font-size: 1.35rem;
+    font-size: 3rem;
   }
   .s-12 {
-    font-size: 1.25rem;
+    font-size: 2.8rem;
   }
   .s-13 {
-    font-size: 1.15rem;
+    font-size: 2.6rem;
   }
   .s-14 {
-    font-size: 1.07rem;
+    font-size: 2.44rem;
   }
   .s-15 {
-    font-size: 1rem;
+    font-size: 2.3rem;
   }
   .s-16 {
-    font-size: 0.93rem;
+    font-size: 2.16rem;
   }
   .s-17 {
-    font-size: 0.87rem;
+    font-size: 2.04rem;
   }
   .s-18 {
-    font-size: 0.83rem;
+    font-size: 1.96rem;
   }
   .s-19 {
-    font-size: 0.78rem;
+    font-size: 1.86rem;
   }
   .s-20 {
-    font-size: 0.74rem;
+    font-size: 1.78rem;
   }
 
   .pequena {
-    font-size: 0.6rem;
+    font-size: 1.5rem;
   }
 </style>

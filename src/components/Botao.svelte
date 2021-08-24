@@ -21,20 +21,23 @@
 <style>
   .botao {
     margin: 0;
-    border-radius: 15px;
-    border: 1px solid var(--cor-fundo);
+    border-radius: 50px;
+    border: 3px solid var(--cor-fundo);
     flex-basis: 25%;
     color: white;
     background-color: #444;
+    font-size: 2.3rem;
+  }
+
+  .botao:hover {
+    background-color: #555;
   }
 
   .duplo {
-    border-radius: 15px;
     flex-basis: 50%;
   }
 
   .triplo {
-    border-radius: 15px;
     flex-basis: 75%;
   }
 
@@ -43,8 +46,16 @@
     color: white;
   }
 
+  .operacao:hover {
+    background-color: #909;
+  }
+
   .destaque {
     background-color: #666;
     color: white;
+  }
+
+  .destaque:hover {
+    background-color: #777;
   }
 </style>
